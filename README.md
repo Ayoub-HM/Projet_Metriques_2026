@@ -27,7 +27,7 @@ Vous allez dans cette séquence **installer un serveur Flask** dans votre Codesp
 
 **Création du serveur Flask**  
 ```
-make install
+"make install"
 ```
 **Lancement de l'application**  
 ```
